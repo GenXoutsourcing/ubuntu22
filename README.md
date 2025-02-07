@@ -1,6 +1,6 @@
 ######BEFORE RUNNING SCRIPT###
+
 hostnamectl set-hostname xxxxxx.xxxxx.xxx
-### Use YOUR SubDomain
 
 vi /etc/hosts
 ##Change domain name for actual server ip (xxx.xxx.xxx.xxx   complete domain name    subdomain only)
